@@ -1,0 +1,41 @@
+body{
+    font-family: monospace;
+    font-size: large;
+    color:white;
+    background-color: rgba(36, 21, 63,0.5) ;
+    background-image: url(flower.jpg) ;
+    background-size: cover;
+    
+
+
+    
+}
+body{
+    background-color:rgba(black,0.5);
+    
+    
+}
+
+input{
+    display: inline;
+    box-shadow: 2cm;
+    border-radius: 10px;
+    background-color: rgba(185, 177, 201, 0.5);
+
+
+}
+
+input[type=submit]{
+    color: white;
+}
+
+input:hover{
+    background-color: rgba(52, 24, 153, 0.521);
+    color: rgb(255, 255, 255);
+    transition-delay: 6ms;
+
+}
+.title{
+    font-family: cursive;
+    padding-top: 30px;
+}
